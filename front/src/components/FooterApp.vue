@@ -24,16 +24,28 @@ export default {
         <p>Пользовательское соглашение</p>
         <p>Правила рекомендаций</p>
         <ul class="list-unstyled d-flex">
-          <li class="ms-3"><a class="link-body-emphasis" href="tel:+998 71 203-87-87">
-            <i class="bi bi-telephone-fill h2"></i>
-          </a></li>
-          <li class="ms-3"><a class="link-body-emphasis" href="mailto:info@haemalogic.uz">
-            <i class="bi bi-envelope-open-fill h2"></i>
-          </a></li>
-          <li class="ms-3"><a class="link-body-emphasis"
-                              href="https://yandex.uz/maps/10335/tashkent/?from=mapframe&ll=69.259112%2C41.314321&source=mapframe&utm_source=mapframe&z=14.03">
-            <i class="bi bi-geo-alt-fill h2"></i>
-          </a></li>
+          <li class="ms-3"><a class="link-body-emphasis" href="#">
+            <i class="bi bi-instagram h2"></i>
+          </a>
+          </li>
+          <li class="ms-3"><a class="link-body-emphasis" href="#">
+            <i class="bi bi-whatsapp h2"></i>
+          </a>
+          </li>
+          <li class="ms-3"><a class="link-body-emphasis" href="#">
+            <i class="bi bi-telegram h2"></i>
+          </a>
+          </li>
+<!--          <li class="ms-3"><a class="link-body-emphasis" href="tel:+998 71 203-87-87">-->
+<!--            <i class="bi bi-telephone-fill h2"></i>-->
+<!--          </a></li>-->
+<!--          <li class="ms-3"><a class="link-body-emphasis" href="mailto:info@haemalogic.uz">-->
+<!--            <i class="bi bi-envelope-open-fill h2"></i>-->
+<!--          </a></li>-->
+<!--          <li class="ms-3"><a class="link-body-emphasis"-->
+<!--                              href="https://yandex.uz/maps/10335/tashkent/?from=mapframe&ll=69.259112%2C41.314321&source=mapframe&utm_source=mapframe&z=14.03">-->
+<!--            <i class="bi bi-geo-alt-fill h2"></i>-->
+<!--          </a></li>-->
         </ul>
       </div>
     </footer>

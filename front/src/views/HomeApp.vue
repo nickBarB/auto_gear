@@ -4,7 +4,10 @@ import WelcomeLogo from "../components/WelcomeLogo.vue";
 </script>
 
 <template>
-  <h1 class="px-3">Главная</h1>
+  <div class="container">
+    <h1 class="px-3">Главная</h1>
+  </div>
+
   <WelcomeLogo/>
 </template>
 
