@@ -4,8 +4,8 @@ import {ref} from 'vue'
 export default {
   data() {
     return {
-      LogoImageUrl: ref('/assets/GEAR.svg?url/'),
-      IconImageUrl: ref('/assets/Link.svg?url/'),
+      LogoImageUrl: ref('./assets/GEAR.svg?url/'),
+      IconImageUrl: ref('./assets/Link.svg?url/'),
       media: ''
     }
   },

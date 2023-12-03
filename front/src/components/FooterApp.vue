@@ -32,9 +32,16 @@ export default {
             <i class="bi bi-whatsapp h2"></i>
           </a>
           </li>
-          <li class="ms-3"><a class="link-body-emphasis" href="#">
+          <li class="ms-3">
+            <a class="link-body-emphasis" href="#">
             <i class="bi bi-telegram h2"></i>
           </a>
+          </li>
+          <li>
+            <a href="#" class="nav-link text-white">
+              <svg class="bi d-block mx-auto mb-1" width="24" height="24"><use xlink:href="#people-circle"/></svg>
+              Customers
+            </a>
           </li>
 <!--          <li class="ms-3"><a class="link-body-emphasis" href="tel:+998 71 203-87-87">-->
 <!--            <i class="bi bi-telephone-fill h2"></i>-->
