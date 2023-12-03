@@ -6,6 +6,7 @@ export default {
     return {
       LogoImageUrl: ref('./assets/GEAR.svg?url/'),
       IconImageUrl: ref('./assets/Link.svg?url/'),
+      IconWalletURL: ref('./assets/image_fill.svg?url/'),
       media: ''
     }
   },
@@ -104,7 +105,7 @@ export default {
             </ul>
             <div class="text-end">
               <a class="link-danger" href="#">
-                <i class="bi bi-wallet2 h2"></i>
+                <img :src="IconWalletURL" alt="mdo" width="32" height="32">
               </a>
             </div>
           </div>
